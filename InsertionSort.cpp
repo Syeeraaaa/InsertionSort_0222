@@ -64,5 +64,14 @@ void display()
     {
         cout << arr[j] << endl;
     }
+    cout<< endl;
+}
 
+int main()
+{
+    input();
+    insertionSort();
+    display;
+    system("pause");
+    return 0;
 }
